@@ -1,0 +1,42 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+Makefile
+# Executables
+*.exe
+*.out
+*.app
+
+# Codeblocks
+*.cbp
+*.depend
+*.layout
+
+# Qt
+*.pro
+*.Release
+*.user
+*.Debug
+debug/
+release/
+archive/
